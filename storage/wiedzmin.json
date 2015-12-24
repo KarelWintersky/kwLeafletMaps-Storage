@@ -1,0 +1,56 @@
+{
+    "project" : {
+        "alias"         : "wiedzmin",
+        "title"         : "Карты мира ведьмака",
+        "description"   : "",
+        "desc_file"     : "",
+        "maps_folder"   : ""
+    },
+    "viewport": {
+            "width" :   800,
+            "height":   600
+        },
+    "maps" : [
+        {
+            "info": {
+                "alias"     : "temeria",
+                "title"     : "Темерия",
+                "description": ""
+            },
+            "image": {
+                "url"   : "map_1.jpg",
+                "width" : 3394,
+                "height": 4951
+            },
+            "zoom": {
+                "zoom_min": 1,
+                "zoom_max": 5,
+                "zoom_cur": 3,
+                "center_x": -100,
+                "center_y": 120
+            }
+        },
+        {
+            "info": {
+                "alias"     : "nothernkingdoms",
+                "title"     : "Северные королевства",
+                "description": ""
+            },
+            "image": {
+                "url"   : "map_2.jpg",
+                "width" : 4952,
+                "height": 3397
+            },
+            "zoom": {
+                "zoom_min": 1,
+                "zoom_max": 5,
+                "zoom_cur": 3,
+                "center_x": -100,
+                "center_y": 120
+            }
+        }
+
+    ]
+}
+
+

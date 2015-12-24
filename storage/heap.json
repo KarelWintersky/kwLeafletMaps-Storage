@@ -1,0 +1,192 @@
+{
+    "project" : {
+        "alias"         : "heap",
+        "title"         : "Всякие разные карты",
+        "description"   : "",
+        "desc_file"     : "",
+        "maps_folder"   : ""
+    },
+    "viewport": {
+            "width" :   800,
+            "height":   600
+        },
+    "maps" : [
+        {
+            "info": {
+                "alias"     : "brussel",
+                "title"     : "Средневековая карта Брюсселя",
+                "description": ""
+            },
+            "image": {
+                "url"   : "brussel.jpg",
+                "width" : 2864,
+                "height": 2113
+            },
+            "zoom": {
+                "zoom_min": 1,
+                "zoom_max": 6,
+                "zoom_cur": 3,
+                "center_x": -100,
+                "center_y": 120
+            }
+        },
+        {
+            "info": {
+                "alias"     : "kherash",
+                "title"     : "Nothern Kherash",
+                "description": ""
+            },
+            "image": {
+                "url"   : "kherash.jpg",
+                "width" : 2480,
+                "height": 1754
+            },
+            "zoom": {
+                "zoom_min": 2,
+                "zoom_max": 4,
+                "zoom_cur": 2,
+                "center_x": -80,
+                "center_y": 100
+            }
+        },
+        {
+            "info": {
+                "alias"     : "belseburg",
+                "title"     : "Белсебург и окрестности",
+                "description": ""
+            },
+            "image": {
+                "url"   : "belseburg.jpg",
+                "width" : 1280,
+                "height": 1668
+            },
+            "zoom": {
+                "zoom_min": 1,
+                "zoom_max": 5,
+                "zoom_cur": 3,
+                "center_x": -100,
+                "center_y": 120
+            }
+        },
+        {
+            "info": {
+                "alias"     : "dayzstandalone",
+                "title"     : "Dayz Standalone",
+                "description": ""
+            },
+            "image": {
+                "url"   : "dayz_standalone.jpg",
+                "width" : 3000,
+                "height": 2900
+            },
+            "zoom": {
+                "zoom_min": 1,
+                "zoom_max": 5,
+                "zoom_cur": 3,
+                "center_x": -100,
+                "center_y": 120
+            }
+        },
+        {
+            "info": {
+                "alias"     : "mautapora",
+                "title"     : "Маута Пора",
+                "description": ""
+            },
+            "image": {
+                "url"   : "mautapora.jpg",
+                "width" : 1654,
+                "height": 1689
+            },
+            "zoom": {
+                "zoom_min": 1,
+                "zoom_max": 5,
+                "zoom_cur": 3,
+                "center_x": -100,
+                "center_y": 120
+            }
+        },
+        {
+            "info": {
+                "alias"     : "pollexia",
+                "title"     : "The soverign polity of Pollexia",
+                "description": ""
+            },
+            "image": {
+                "url"   : "pollexia.jpg",
+                "width" : 2071,
+                "height": 1600
+            },
+            "zoom": {
+                "zoom_min": 1,
+                "zoom_max": 5,
+                "zoom_cur": 3,
+                "center_x": -50,
+                "center_y": -80
+            }
+        },
+        {
+            "info": {
+                "alias"     : "tartaria",
+                "title"     : "Великая Тартария",
+                "description": ""
+            },
+            "image": {
+                "url"   : "tartaria.jpg",
+                "width" : 2057,
+                "height": 1553
+            },
+            "zoom": {
+                "zoom_min": 1,
+                "zoom_max": 5,
+                "zoom_cur": 3,
+                "center_x": 0,
+                "center_y": 50
+            }
+        },
+        {
+            "info": {
+                "alias"     : "valcia",
+                "title"     : "Valcia",
+                "description": ""
+            },
+            "image": {
+                "url"   : "valcia.jpg",
+                "width" : 2400,
+                "height": 1800
+            },
+            "zoom": {
+                "zoom_min": 1,
+                "zoom_max": 5,
+                "zoom_cur": 3,
+                "center_x": -100,
+                "center_y": 120
+            }
+        },
+        {
+            "info": {
+                "alias"     : "loxsiana",
+                "title"     : "LOXSIANA World Map",
+                "description": "http://loxsiana.deviantart.com/art/LOXSIANA-World-Map-405022571"
+            },
+            "image": {
+                "url"   : "http://img13.deviantart.net/95c7/i/2013/276/f/6/loxsiana_world_map_by_loxsiana-d6p51ez.jpg",
+                "width" : 1280,
+                "height": 847
+            },
+            "zoom": {
+                "zoom_min": 1,
+                "zoom_max": 4,
+                "zoom_cur": 2,
+                "center_x": -100,
+                "center_y": 120
+            },
+            "viewport": {
+                "width": 1000,
+                "height": 600
+            }
+        }
+
+
+    ]
+}
