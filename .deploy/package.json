@@ -1,0 +1,23 @@
+{
+  "name": "KWLeafletMapStorage",
+  "version": "0.1",
+  "author": "Karel Wintersky <karel.wintersky@gmail.com>",
+  "description": "Karel Wintersky's LeafletMaps Storage",
+  "keywords": [
+    "НРИ",
+    "ролевая система",
+    "картография"
+  ],
+  "homepage": "http://rpg.wintersky.ru/leafletmaps/",
+  "repository": [
+    {
+      "type": "git",
+      "url": "https://github.com/KarelWintersky/kwLeafletMaps-Storage.git"
+    }
+  ],
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-ftp-deploy": "^0.1.10",
+    "time-grunt": "^1.2.0"
+  }
+}
